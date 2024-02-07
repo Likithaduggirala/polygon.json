@@ -1,0 +1,60 @@
+{
+    "id": "polygon",
+    "description": "Polygon is a multi-chain scaling solution for Ethereum.",
+    "tags": [
+        "layer 2",
+        "ethereum scaling",
+        "blockchain"
+    ],
+    "token_details": {
+        "name": "MATIC",
+        "symbol": "MATIC",
+        "logo": "logo/polygon.png",
+        "max_supply": "10 billion"
+    },
+    "chain_details": [
+        {
+            "name": "Language",
+            "type": "Solidity"
+        },
+        {
+            "name": "Consensus",
+            "type": "Proof of stake"
+        },
+        {
+            "name": "Chain Layer",
+            "type": "L2"
+        },
+        {
+            "name": "Chain Type",
+            "type": "EVM"
+        }
+    ],
+    "official_links": {
+        "website": "https://polygon.technology/",
+        "whitepaper": "https://polygon.technology/whitepaper/",
+        "documentation": "https://docs.polygon.technology/",
+        "forum": "https://forum.polygon.technology/",
+        "github": "https://github.com/maticnetwork/"
+    },
+    "social_platforms": {
+        "discord": "https://discord.com/invite/polygon",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+        "community": "https://polygon.technology/community/"
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Polygon"
+        }
+    ]
+}
